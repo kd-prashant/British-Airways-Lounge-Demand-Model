@@ -1,5 +1,5 @@
 # British-Airways-Lounge-Demand-Model
-https://www.theforage.com/simulations/british-airways/data-science-yqoz
+https://www.theforage.com/simulations/british-airways/data-science-yqoz<br><br>
 This project contains my submissions for the British Airways Data Science Virtual Internship. It includes real-world tasks focused on lounge planning and customer behavior prediction.
 
 ---
